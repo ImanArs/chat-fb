@@ -7,13 +7,15 @@ import { getFirestore } from '@firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCDjsbdd3aD3Om56P0r6mdxzLZjp87mKHg",
-  authDomain: "gochat-c0318.firebaseapp.com",
-  projectId: "gochat-c0318",
-  storageBucket: "gochat-c0318.appspot.com",
-  messagingSenderId: "894436960874",
-  appId: "1:894436960874:web:e8c626f8cd80582f473813"
+  apiKey: "AIzaSyB5Rt2yuHptDHAI5vLwKvA_LLkrvB3fX0c",
+  authDomain: "chatapp-9b827.firebaseapp.com",
+  projectId: "chatapp-9b827",
+  storageBucket: "chatapp-9b827.appspot.com",
+  messagingSenderId: "13247395317",
+  appId: "1:13247395317:web:ee0530631c2bfaaec0dcbc"
+
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
